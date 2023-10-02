@@ -2,20 +2,12 @@
 # Algorithm Optimization Project for Machine Learning
 <!-- endhide -->
 
-Inside this repository, you will find a file called `./notebook/problems.ipynb` with the exercises you need to finish to complete it.
+Optimization of Algorithm in Machine Learning is a very important task to perform on any code. Machine Learning can be very expensive resource wise, especially working with very big data sets, plus if you have unoptimized code leaking a lot of memory. Hence the importance of writing good optimized code, to save on memory for other tasks as supervised learning and modeling. 
 
-## 🌱  How to start this project
+## 📒  Key Takes
 
-This project and its repository comes with the necessary files to start working.
+For this project, the most important requirement is to understand how Python works and have good knowledge of the Python good practices such as PEP 8 to optimize your code not just for the sake of readability but also in terms of performance. Tools such like PyLint can help you to an extent, but it's key to understand how memory is addressed when coding Python and the dynamics of memory allocation in Computer Science. 
 
-1. Make a fork of [this repository](https://github.com/4GeeksAcademy/algorithm-optimization-project-machine-learning) into your github account.
-2. Open the recently created fork repository using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can clone it on your local computer using the `git clone` command.
-3. Once it has finished opening you can go ahead and open the `problems.ipynb` file and start solving each exercise inside the notebook.
+From a messy code, this was the outcome, where I measure the time of execution of code, which is a good measure to understand how fast it executes. Normally the faster a code executes the more optimized it is. So key take, always spend time optimizing your code. 
 
-## 🚛 How to deliver this project
 
-Once you are finished solving the exercises make sure to commit your changes, push to your repository fork and go to 4Geeks.com to upload the repository link.
-
-## Solutions
-
-We also incorporated the solutions files `./notebook/*-solution[n].ipynb` that we strongly suggest you only use if you are stuck for more than 30min or if you have already finished and want to compare it with your approach.
